@@ -1,3 +1,5 @@
+// pages/NotFound.jsx
+
 function NotFound() {
   return (
     <div>

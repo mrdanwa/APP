@@ -1,3 +1,5 @@
+// components/LoadingIndicator.jsx
+
 import "../styles/LoadingIndicator.css";
 
 const LoadingIndicator = () => {

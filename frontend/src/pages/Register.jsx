@@ -1,3 +1,5 @@
+// pages/Register.jsx
+
 import Form from "../components/Form";
 
 function Register() {

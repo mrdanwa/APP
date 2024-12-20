@@ -1,3 +1,5 @@
+# backend/settings.py
+
 """
 Django settings for backend project.
 
